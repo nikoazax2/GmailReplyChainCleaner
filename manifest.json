@@ -3,9 +3,6 @@
   "name": "Gmail Reply Chain Cleaner",
   "version": "1.0.0",
   "description": "Automatically removes reply chains from Gmail messages",
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": [
